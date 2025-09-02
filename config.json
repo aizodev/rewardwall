@@ -36,7 +36,7 @@
       "google_ad_manager": {
         "app_open_id": "0",
         "banner_id": "0",
-        "interstitial_id": "0l",
+        "interstitial_id": "0",
         "rewarded_id": "0",
         "native_id": "0"
       },
@@ -105,5 +105,6 @@
   }
 
 }
+
 
 
