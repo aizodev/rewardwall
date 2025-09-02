@@ -23,7 +23,7 @@
   "ads": {
     "status": true,
     "main_ads": "admob",
-    "backup_ads": "admob",
+    "backup_ads": "facebook",
     "ads_unit_id": {
       "admob": {
         "publisher_id": "pub-3940256099942544",
@@ -41,10 +41,10 @@
         "native_id": "0"
       },
       "facebook": {
-        "banner_id": "YOUR_PLACEMENT_ID",
-        "interstitial_id": "YOUR_PLACEMENT_ID",
-        "rewarded_id": "YOUR_PLACEMENT_ID",
-        "native_id": "YOUR_PLACEMENT_ID"
+        "banner_id": "0",
+        "interstitial_id": "0",
+        "rewarded_id": "0",
+        "native_id": "0"
       },
       "applovin_max": {
         "app_open_id": "0",
@@ -105,6 +105,7 @@
   }
 
 }
+
 
 
 
