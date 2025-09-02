@@ -21,9 +21,9 @@
     "enable_dark_mode_as_default_theme": false
   },
   "ads": {
-    "status": true,
-    "main_ads": "facebook",
-    "backup_ads": "admob",
+    "status": false,
+    "main_ads": "admob",
+    "backup_ads": "facebook",
     "ads_unit_id": {
       "admob": {
         "publisher_id": "pub-3940256099942544",
@@ -105,6 +105,7 @@
   }
 
 }
+
 
 
 
