@@ -26,9 +26,9 @@
     "backup_ads": "facebook",
     "ads_unit_id": {
       "admob": {
-        "publisher_id": "pub-3940256099942544",
+        "publisher_id": "pub-8616370479044220",
         "app_open_id": "ca-app-pub-3940256099942544/9257395921",
-        "banner_id": "ca-app-pub-3940256099942544/9214589741",
+        "banner_id": "ca-app-pub-8616370479044220/3475278671",
         "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
         "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
         "native_id": "ca-app-pub-3940256099942544/2247696110"
@@ -105,6 +105,7 @@
   }
 
 }
+
 
 
 
