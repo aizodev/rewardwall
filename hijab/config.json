@@ -1,0 +1,107 @@
+{
+  "app": {
+    "status": true,
+    "redirect_url": ""
+  },
+  "github": {
+    "username": "aizodev",
+    "repository": "scary-mask-wallpaper",
+    "branch": "main"
+  },
+  "settings": {
+    "more_apps_url": "https://play.google.com/store/apps/developer?id=Rasmodev",
+    "privacy_policy_url": "https://sites.google.com/view/rasmodev-privacy-policy/home",
+    "terms_conditions_url": "https://sites.google.com/view/rasmodev-privacy-policy/",
+    "email_help_feedback": "xwallpaperapps@outlook.com",
+    "show_wallpaper_name": true,
+    "show_full_screen_wallpaper_details": false,
+    "enable_center_crop_wallpaper_details": true,
+    "enable_exit_dialog": true,
+    "enable_rtl_mode": false,
+    "enable_dark_mode_as_default_theme": false
+  },
+  "ads": {
+    "status": true,
+    "main_ads": "admob",
+    "backup_ads": "facebook",
+    "ads_unit_id": {
+      "admob": {
+        "publisher_id": "pub-8616370479044220",
+        "app_open_id": "ca-app-pub-8616370479044220/1305362591",
+        "banner_id": "ca-app-pub-8616370479044220/9083742273",
+        "interstitial_id": "ca-app-pub-8616370479044220/3907475209",
+        "rewarded_id": "ca-app-pub-8616370479044220/4973144867",
+        "native_id": "ca-app-pub-8616370479044220/2111139813"
+      },
+      "google_ad_manager": {
+        "app_open_id": "0",
+        "banner_id": "0",
+        "interstitial_id": "0",
+        "rewarded_id": "0",
+        "native_id": "0"
+      },
+      "facebook": {
+        "banner_id": "0",
+        "interstitial_id": "0",
+        "rewarded_id": "0",
+        "native_id": "0"
+      },
+      "applovin_max": {
+        "app_open_id": "0",
+        "banner_id": "0",
+        "interstitial_id": "0",
+        "rewarded_id": "0",
+        "native_id": "0"
+      },
+      "applovin_discovery": {
+        "banner_zone_id": "0",
+        "mrec_zone_id": "0",
+        "rewarded_zone_id": "0",
+        "interstitial_zone_id": "0"
+      },
+      "startapp": {
+        "app_id": "0"
+      },
+      "unity": {
+        "game_id": "0",
+        "banner_id": "0",
+        "interstitial_id": "0",
+        "rewarded_id": "0"
+      },
+      "ironsource": {
+        "app_key": "0",
+        "banner_id": "0",
+        "interstitial_id": "0",
+        "rewarded_id": "0"
+      },
+      "wortise": {
+        "app_id": "0",
+        "app_open_id": "0",
+        "banner_id": "0",
+        "interstitial_id": "0",
+        "rewarded_id": "0",
+        "native_id": "0"
+      }
+    },
+    "placement": {
+      "banner_home": true,
+      "banner_wallpaper_details": true,
+      "banner_favorite": true,
+      "interstitial_wallpaper_list": true,
+      "rewarded_wallpaper_details": true,
+      "native_wallpaper_list": true,
+      "native_exit_dialog": true,
+      "app_open_ad_on_start": true,
+      "app_open_ad_on_resume": true
+    },
+    "global": {
+      "interstitial_ad_interval": 3,
+      "native_ad_index_2_columns": 6,
+      "native_ad_index_3_columns": 12,
+      "native_ad_style_exit_dialog": "medium",
+      "native_ad_style_wallpaper_list": "large",
+      "native_ad_style_wallpaper_details": "large"
+    }
+  }
+
+}
