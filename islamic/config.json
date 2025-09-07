@@ -27,11 +27,11 @@
     "ads_unit_id": {
       "admob": {
         "publisher_id": "pub-8616370479044220",
-        "app_open_id": "ca-app-pub-8616370479044220/1305362591",
-        "banner_id": "ca-app-pub-8616370479044220/9083742273",
-        "interstitial_id": "ca-app-pub-8616370479044220/3907475209",
-        "rewarded_id": "ca-app-pub-8616370479044220/4973144867",
-        "native_id": "ca-app-pub-8616370479044220/2111139813"
+        "app_open_id": "ca-app-pub-8616370479044220/4695326150",
+        "banner_id": "ca-app-pub-8616370479044220/6782680864",
+        "interstitial_id": "ca-app-pub-8616370479044220/5469599192",
+        "rewarded_id": "ca-app-pub-8616370479044220/6008407826",
+        "native_id": "ca-app-pub-8616370479044220/8602781577"
       },
       "google_ad_manager": {
         "app_open_id": "0",
