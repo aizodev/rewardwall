@@ -26,12 +26,12 @@
     "backup_ads": "admob",
     "ads_unit_id": {
       "admob": {
-        "publisher_id": "pub-8616370479044220",
-        "app_open_id": "ca-app-pub-8616370479044220/6695545797",
-        "banner_id": "ca-app-pub-8616370479044220/2560859662",
-        "interstitial_id": "ca-app-pub-8616370479044220/6751386111",
-        "rewarded_id": "ca-app-pub-8616370479044220/1247777991",
-        "native_id": "ca-app-pub-8616370479044220/6528024836"
+        "publisher_id": "0",
+        "app_open_id": "0",
+        "banner_id": "0",
+        "interstitial_id": "0",
+        "rewarded_id": "0",
+        "native_id": "0"
       },
       "google_ad_manager": {
         "app_open_id": "0",
