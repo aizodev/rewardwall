@@ -22,8 +22,8 @@
   },
   "ads": {
     "status": true,
-    "main_ads": "facebook",
-    "backup_ads": "admob",
+    "main_ads": "admob",
+    "backup_ads": "facebook",
     "ads_unit_id": {
       "admob": {
         "publisher_id": "pub-8616370479044220",
