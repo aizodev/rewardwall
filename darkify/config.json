@@ -41,10 +41,10 @@
         "native_id": "0"
       },
       "facebook": {
-        "banner_id": "1131328484161362_1131330550827822",
-        "interstitial_id": "1131328484161362_1131330444161166",
-        "rewarded_id": "1131328484161362_1782599965700874",
-        "native_id": "1131328484161362_1782599669034237"
+        "banner_id": "IMG_16_9_APP_INSTALL#YOUR_PRODUCTION_PLACEMENT_ID",
+        "interstitial_id": "IMG_16_9_APP_INSTALL#YOUR_PRODUCTION_PLACEMENT_ID",
+        "rewarded_id": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PRODUCTION_PLACEMENT_ID",
+        "native_id": "IMG_16_9_LINK#YOUR_PRODUCTION_PLACEMENT_ID"
       },
       "applovin_max": {
         "app_open_id": "0",
