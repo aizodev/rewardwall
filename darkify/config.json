@@ -22,29 +22,29 @@
   },
   "ads": {
     "status": true,
-    "main_ads": "facebook",
-    "backup_ads": "admob",
+    "main_ads": "admob",
+    "backup_ads": "none",
     "ads_unit_id": {
       "admob": {
         "publisher_id": "pub-3940256099942544",
         "app_open_id": "ca-app-pub-3940256099942544/9257395921",
-        "banner_id": "ca-app-pub-3940256099942544/6300978111",
+        "banner_id": "ca-app-pub-3940256099942544/9214589741",
         "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
         "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
         "native_id": "ca-app-pub-3940256099942544/2247696110"
       },
       "google_ad_manager": {
-        "app_open_id": "0",
-        "banner_id": "0",
-        "interstitial_id": "0",
-        "rewarded_id": "0",
-        "native_id": "0"
+        "app_open_id": "/6499/example/app-open",
+        "banner_id": "/6499/example/banner",
+        "interstitial_id": "/6499/example/interstitial",
+        "rewarded_id": "/6499/example/rewarded",
+        "native_id": "/6499/example/native"
       },
       "facebook": {
-        "banner_id": "YOUR_PLACEMENT_ID#1131328484161362_1131330550827822",
-        "interstitial_id": "VID_HD_9_16_39S_APP_INSTALL#1131328484161362_1131330444161166",
-        "rewarded_id": "VID_HD_16_9_15S_LINK#1131328484161362_1782599965700874",
-        "native_id": "YOUR_PLACEMENT_ID#1131328484161362_1782599669034237"
+        "banner_id": "YOUR_PLACEMENT_ID",
+        "interstitial_id": "YOUR_PLACEMENT_ID",
+        "rewarded_id": "YOUR_PLACEMENT_ID",
+        "native_id": "YOUR_PLACEMENT_ID"
       },
       "applovin_max": {
         "app_open_id": "0",
@@ -63,24 +63,16 @@
         "app_id": "0"
       },
       "unity": {
-        "game_id": "0",
-        "banner_id": "0",
-        "interstitial_id": "0",
-        "rewarded_id": "0"
+        "game_id": "4089993",
+        "banner_id": "banner",
+        "interstitial_id": "video",
+        "rewarded_id": "rewardedVideo"
       },
       "ironsource": {
-        "app_key": "0",
-        "banner_id": "0",
-        "interstitial_id": "0",
-        "rewarded_id": "0"
-      },
-      "wortise": {
-        "app_id": "0",
-        "app_open_id": "0",
-        "banner_id": "0",
-        "interstitial_id": "0",
-        "rewarded_id": "0",
-        "native_id": "0"
+        "app_key": "85460dcd",
+        "banner_id": "DefaultBanner",
+        "interstitial_id": "DefaultInterstitial",
+        "rewarded_id": "DefaultRewardedVideo"
       }
     },
     "placement": {
@@ -89,6 +81,7 @@
       "banner_favorite": true,
       "interstitial_wallpaper_list": true,
       "rewarded_wallpaper_details": true,
+      "native_drawer_menu": true,
       "native_wallpaper_list": true,
       "native_exit_dialog": true,
       "app_open_ad_on_start": true,
@@ -99,9 +92,9 @@
       "native_ad_index_2_columns": 6,
       "native_ad_index_3_columns": 12,
       "native_ad_style_exit_dialog": "medium",
+      "native_ad_style_drawer_menu": "medium",
       "native_ad_style_wallpaper_list": "large",
       "native_ad_style_wallpaper_details": "large"
     }
   }
-
 }
