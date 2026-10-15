@@ -23,7 +23,7 @@
   "ads": {
     "status": true,
     "main_ads": "facebook",
-    "backup_ads": "admob",
+    "backup_ads": "none",
     "ads_unit_id": {
       "admob": {
         "publisher_id": "pub-3940256099942544",
@@ -81,9 +81,9 @@
       "banner_favorite": true,
       "interstitial_wallpaper_list": true,
       "rewarded_wallpaper_details": true,
-      "native_drawer_menu": false,
+      "native_drawer_menu": true,
       "native_wallpaper_list": true,
-      "native_exit_dialog": false,
+      "native_exit_dialog": true,
       "app_open_ad_on_start": true,
       "app_open_ad_on_resume": true
     },
