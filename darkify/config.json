@@ -84,7 +84,7 @@
       "native_drawer_menu": true,
       "native_wallpaper_list": true,
       "native_exit_dialog": true,
-      "enable_app_open": false,
+      "enable_app_open": true,
       "app_open_min_background_seconds": 30,
       "app_open_min_interval_seconds": 120
       "app_open_ad_on_start": true,
