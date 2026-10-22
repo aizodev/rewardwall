@@ -87,6 +87,9 @@
       "app_open_ad_on_start": true,
       "app_open_ad_on_resume": true
     },
+    "enable_app_open": true,
+    "app_open_min_background_seconds": 30,
+    "app_open_min_interval_seconds": 120,
     "global": {
       "interstitial_ad_interval": 3,
       "native_ad_index_2_columns": 6,
