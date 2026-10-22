@@ -22,7 +22,7 @@
   },
   "ads": {
     "status": true,
-    "main_ads": "facebook",
+    "main_ads": "admob",
     "backup_ads": "none",
     "ads_unit_id": {
       "admob": {
@@ -84,7 +84,7 @@
       "native_drawer_menu": true,
       "native_wallpaper_list": true,
       "native_exit_dialog": true,
-      "app_open_ad_on_start": true,
+      "app_open_ad_on_start": false,
       "app_open_ad_on_resume": true
     },
     "enable_app_open": true,
