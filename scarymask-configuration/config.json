@@ -22,8 +22,8 @@
   },
   "ads": {
     "status": true,
-    "main_ads": "facebook",
-    "backup_ads": "none",
+    "main_ads": "admob",
+    "backup_ads": "facebook",
     "ads_unit_id": {
       "admob": {
         "publisher_id": "pub-3940256099942544",
@@ -84,9 +84,12 @@
       "native_drawer_menu": true,
       "native_wallpaper_list": true,
       "native_exit_dialog": true,
-      "app_open_ad_on_start": true,
+      "app_open_ad_on_start": false,
       "app_open_ad_on_resume": true
     },
+    "enable_app_open": true,
+    "app_open_min_background_seconds": 30,
+    "app_open_min_interval_seconds": 120,
     "global": {
       "interstitial_ad_interval": 3,
       "native_ad_index_2_columns": 6,
